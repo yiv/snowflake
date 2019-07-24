@@ -1,4 +1,4 @@
-module github.com/sony/sonyflake
+module github.com/yiv/snowflake
 
 go 1.12
 
